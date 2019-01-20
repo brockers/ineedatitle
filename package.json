@@ -1,0 +1,19 @@
+{
+  "name": "ineedatitle",
+  "version": "1.0.0",
+  "description": "Sometimes all you need is a title",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brockers/ineedatitle.git"
+  },
+  "author": "Bob Rockers <rrockers@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brockers/ineedatitle/issues"
+  },
+  "homepage": "https://github.com/brockers/ineedatitle#readme"
+}
